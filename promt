@@ -1,0 +1,1 @@
+python sdxlgen.py An astronaut trying to catch a floating coffee cup in space. --width 768 --height 512 --output astrocofee.png
